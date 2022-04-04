@@ -1,0 +1,83 @@
+body {
+  background-color: AntiqueWhite
+}
+
+.header {
+  position: relative;
+  font-family: cursive;
+  color: black;
+  padding-left: 20px;
+}
+
+.skyline {
+  position: absolute;
+  top:43px;
+  left:30px
+}
+
+.photo {
+  position: absolute;
+  top: -15px;
+  right: 50px;
+  clip-path: circle();
+ }
+
+.professional {
+  position: relative;
+  background-color: Azure;
+  border: 3px solid black;
+  border-radius: 12px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.quill {
+  position: absolute;
+  right: 160px;
+  top: 3px;
+}
+
+.education {
+  position: relative;
+  background-color: DarkSeaGreen;
+  border: 3px solid black;
+  border-radius: 12px;
+  padding-left: 10px;
+  margin-bottom: 10px;
+}
+
+.cap {
+  position: absolute;
+  top: 3px;
+  left: 110px
+}
+
+.interpreting {
+  position: relative;
+  background-color: Azure;
+  border: 3px solid black;
+  border-radius: 12px;
+  padding-left: 10px
+}
+
+.hands {
+  position: absolute;
+  top: 100px;
+  right: 60px;
+}
+
+.hobbies {
+  position: relative;
+  background-color: DarkSeaGreen;
+  border: 3px solid black;
+  border-radius: 8px;
+  padding-left: 10px;
+  margin-top: 10px
+}
+
+.climber {
+  position: absolute;
+  top: -3px;
+  right: -4px;
+  
+}
